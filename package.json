@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Static binaries for ffprobe.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "tape tests/*"
   },
