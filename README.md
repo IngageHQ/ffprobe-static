@@ -1,5 +1,7 @@
 ffprobe-static
 ====
+_Note: fork of [joshwnj](https://github.com/joshwnj) for the purpose of providing temporary arm64 support._
+___
 
 Static binaries for `ffprobe`.
 
